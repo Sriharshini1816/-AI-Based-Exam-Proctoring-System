@@ -1,0 +1,32 @@
+# AI Proctoring System - Python 3.11+ Compatible Dependencies
+
+# Core Dependencies
+streamlit>=1.54.0
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Audio Processing
+librosa>=0.11.0
+sounddevice>=0.4.6
+audioread>=3.1.0
+
+# System Monitoring
+pynput>=1.8.0
+pyperclip>=1.11.0
+pywin32>=311
+psutil>=5.9.0
+
+# Data & Logging
+pandas>=2.0.0
+seaborn>=0.13.0
+matplotlib>=3.7.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Note: MediaPipe removed from requirements due to compatibility issues
+# The system now uses OpenCV-based detection instead
+

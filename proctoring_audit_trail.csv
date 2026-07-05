@@ -1,0 +1,96 @@
+Timestamp,Violation_Type,Evidence_Ref
+2026-02-15T23:57:57,Multiple Persons Detected,evidence/screenshots/SCR_235756.png
+2026-02-15T23:58:35,Multiple Persons Detected,evidence/screenshots/SCR_235835.png
+2026-02-16T00:11:07,Paper / Notes Detected,evidence/screenshots/SCR_001107.png
+2026-02-16T00:11:51,Paper / Notes Detected,evidence/screenshots/SCR_001150.png
+2026-02-16T00:12:09,Paper / Notes Detected,evidence/screenshots/SCR_001209.png
+2026-02-16T00:12:35,Paper / Notes Detected,evidence/screenshots/SCR_001235.png
+2026-02-16T00:15:09,Paper / Notes Detected,evidence/screenshots/SCR_001509.png
+2026-02-16T00:19:45,Paper / Notes Detected,evidence/screenshots/SCR_001945.png
+2026-02-16T00:20:27,Paper / Notes Detected,evidence/screenshots/SCR_002027.png
+2026-02-16T00:34:41.084,Looking Away,MEDIUM,evidence/screenshots/SCR_003440_969.png
+2026-02-16T00:34:51.691,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_003451_612.png
+2026-02-16T00:35:09.378,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_003509_283.png
+2026-02-16T00:35:56.161,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_003556_036.png
+2026-02-16T00:36:10.666,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_003610_556.png
+2026-02-16T00:36:25.315,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_003625_045.png
+2026-02-16T00:36:39.856,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_003639_719.png
+2026-02-16T00:46:29.103,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004629_032.png
+2026-02-16T00:46:47.037,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004646_959.png
+2026-02-16T00:46:57.717,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004657_650.png
+2026-02-16T00:47:04.768,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004704_672.png
+2026-02-16T00:47:29.620,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004729_524.png
+2026-02-16T00:47:44.148,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004744_053.png
+2026-02-16T00:47:51.446,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_004751_346.png
+2026-02-16T00:48:02.121,Looking Away,MEDIUM,evidence/screenshots/SCR_004802_024.png
+2026-02-16T01:01:35.968,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_010135_847.png
+2026-02-16T01:01:50.544,Looking Away,MEDIUM,evidence/screenshots/SCR_20260216_010150_433.png
+2026-02-16T01:01:54.363,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_010154_229.png
+2026-02-16T01:04:16.366,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_010416_240.png
+2026-02-16T18:59:44.795,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_185944_657.png
+2026-02-16T18:59:48.478,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_185948_390.png
+2026-02-16T18:59:52.081,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_185951_992.png
+2026-02-16T18:59:55.806,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_185955_704.png
+2026-02-16T19:00:03.145,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_190003_030.png
+2026-02-16T19:00:07.022,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_190006_856.png
+2026-02-16T19:00:21.898,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_190021_801.png
+2026-02-16T19:00:25.580,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_190025_486.png
+2026-02-16T19:00:32.940,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_190032_821.png
+2026-02-16T19:00:36.911,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_190036_735.png
+2026-02-16T19:44:30.343,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_194430_183.png
+2026-02-16T19:44:34.185,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_194434_098.png
+2026-02-16T19:44:52.626,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_194452_544.png
+2026-02-16T19:50:51.825,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195051_711.png
+2026-02-16T19:51:03.517,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_195103_015.png
+2026-02-16T19:51:11.043,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195110_959.png
+2026-02-16T19:51:22.043,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_195121_953.png
+2026-02-16T19:51:29.113,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_195129_024.png
+2026-02-16T19:51:36.560,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195136_244.png
+2026-02-16T19:53:54.562,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_195354_448.png
+2026-02-16T19:53:58.208,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195358_111.png
+2026-02-16T19:54:08.967,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_195408_851.png
+2026-02-16T19:54:23.225,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195423_094.png
+2026-02-16T19:54:41.248,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195441_138.png
+2026-02-16T19:54:48.519,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_195448_393.png
+2026-02-16T19:54:55.563,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_195455_483.png
+2026-02-16T19:54:59.167,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_195459_076.png
+2026-02-16T19:55:06.271,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_195506_177.png
+2026-02-16T19:55:13.393,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_195513_275.png
+2026-02-16T19:55:16.966,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_195516_880.png
+2026-02-16T19:55:27.704,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_195527_583.png
+2026-02-16T19:55:31.352,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195531_264.png
+2026-02-16T19:59:33.344,Looking Away,MEDIUM,evidence/screenshots/SCR_20260216_195933_210.png
+2026-02-16T19:59:40.888,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195940_762.png
+2026-02-16T19:59:55.176,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_195955_085.png
+2026-02-16T20:00:16.682,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200016_583.png
+2026-02-16T20:00:20.281,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200020_192.png
+2026-02-16T20:00:31.148,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200031_021.png
+2026-02-16T20:00:34.763,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200034_661.png
+2026-02-16T20:06:06.596,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200606_425.png
+2026-02-16T20:06:14.127,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200614_013.png
+2026-02-16T20:06:17.785,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200617_695.png
+2026-02-16T20:06:21.485,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200621_360.png
+2026-02-16T20:06:32.313,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200632_185.png
+2026-02-16T20:06:35.935,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200635_851.png
+2026-02-16T20:06:39.617,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200639_523.png
+2026-02-16T20:06:43.321,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200643_208.png
+2026-02-16T20:08:32.834,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200832_665.png
+2026-02-16T20:08:47.218,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_200847_110.png
+2026-02-16T20:08:50.852,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_200850_745.png
+2026-02-16T20:11:10.634,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_201110_529.png
+2026-02-16T20:11:21.332,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_201121_204.png
+2026-02-16T20:11:39.052,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_201138_929.png
+2026-02-16T20:11:56.982,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_201156_869.png
+2026-02-16T20:21:00.140,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_202100_035.png
+2026-02-16T20:21:03.864,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_202103_737.png
+2026-02-16T20:21:32.558,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_202132_450.png
+2026-02-16T20:21:36.232,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_202136_145.png
+2026-02-16T20:21:39.815,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_202139_732.png
+2026-02-16T20:21:43.451,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_202143_359.png
+2026-02-16T20:22:33.563,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_202233_469.png
+2026-02-16T20:22:37.224,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_202237_121.png
+2026-02-16T20:27:07.190,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_202707_112.png
+2026-02-16T20:27:23.221,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_202723_117.png
+2026-02-16T20:27:30.413,Multiple Persons Detected,MEDIUM,evidence/screenshots/SCR_20260216_202730_290.png
+2026-02-16T20:27:41.158,Paper / Notes Detected,MEDIUM,evidence/screenshots/SCR_20260216_202741_073.png
+2026-02-16T20:27:44.807,Talking Detected,MEDIUM,evidence/screenshots/SCR_20260216_202744_674.png
